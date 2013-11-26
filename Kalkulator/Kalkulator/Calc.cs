@@ -8,5 +8,6 @@ namespace Kalkulator
 {
     class Calc
     {
+        
     }
 }
