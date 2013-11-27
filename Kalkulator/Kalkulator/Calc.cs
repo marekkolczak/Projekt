@@ -18,7 +18,7 @@ namespace Kalkulator
         {
             int kk;
             int wp;
-            int kwaaaaaa
+            int kwaaaaaa;
             return (a * b);
         }
         public static double Substraction(int a, int b)
